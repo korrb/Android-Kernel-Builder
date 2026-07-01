@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Creek_Kernel",
+      "name": "KLOKERNEL",
       "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
       "branch": "creek-v-oss",
       "device": "creek"
